@@ -62,6 +62,6 @@ Polyglot-ko 모델을 QLoRA 방식으로 파인튜닝하여 Colab 환경에서�
 또한 샘플별 Loss 분석을 통해 데이터 품질 문제를 파악하고 개선 방향을 도출했습니다.
     `,
     tech: ["Python", "Transformers", "PEFT", "QLoRA", "Polyglot-ko"],
-    link: "https://colab.research.google.com/drive/1Wv_PeCr2R3XojNL-4DxI_u89ZS8C0CJE"
+    link: "https://github.com/beshurl/traffic-lawyer-llm"
   }
 ];
